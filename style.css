@@ -51,19 +51,19 @@ nav a:hover{
 }
 /*organizando o nome de cada card*/
 h3{
-    color: #0F172A/*cor da letra*/
+    color: #0F172A;/*cor da letra*/
     font-family:'Asenine', sans-serif;/*fonte escolida*/
     
 }
 /*organizando os paragrafos*/
 p{
-    color: #0F172A/* cor da letra*/
+    color: #0F172A;/* cor da letra*/
     font-family:'Asenine', sans-serif;/*fonte escolida*/
     
 }
 /*organizando o subtitulo*/
 h2{
-    color: aliceblue;
+    color: aliceblue:
 }
 #personagens{
     background-image:url(./imagens_sw/estrelas.webp);
